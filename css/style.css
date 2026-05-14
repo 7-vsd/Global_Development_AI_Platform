@@ -1,0 +1,37 @@
+body {
+    background-color: #070b17;
+    color: white;
+}
+
+.hero {
+    padding: 30px;
+    border-radius: 25px;
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 30px rgba(0, 255, 255, 0.4);
+}
+
+.stMetric {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+}
+
+.stButton > button {
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.stSelectbox > div {
+    border-radius: 10px;
+}
+
+h1, h2, h3 {
+    color: #00c6ff;
+}
