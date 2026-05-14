@@ -348,8 +348,8 @@ The platform can be deployed on:
 ### AI & Data Science Engineer
 
 - 🌐 GitHub: https://github.com/7-vsd
-- 💼 LinkedIn: Add your LinkedIn profile
-- 📧 Email: Add your email
+- 💼 LinkedIn: https://www.linkedin.com/in/vipul-dhange-827b14253/
+- 📧 Email: dhange.vipul3082@gmail.com
 
 ---
 
