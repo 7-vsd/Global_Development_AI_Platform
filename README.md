@@ -316,19 +316,6 @@ The platform can be deployed on:
 
 ---
 
-# 💡 Screenshots
-
-## Dashboard Preview
-(Add screenshots here)
-
-## Clustering Visualization
-(Add screenshots here)
-
-## Global Analytics Map
-(Add screenshots here)
-
----
-
 # 📌 Use Cases
 
 - Economic intelligence systems
